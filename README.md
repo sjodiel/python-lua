@@ -23,8 +23,8 @@ optional arguments:
   --only-lua-init  Print only lua initialization code.
   --no-lua-init    Print lua code without lua init code.
 ```
-
-For example: ```python3 __main__py tests/iterlist.py```
+ 
+For example: ```python3 __main__.py tests/iterlist.py```
 
 ### As a packet
 ```

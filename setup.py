@@ -9,7 +9,7 @@ setup(
     url="https://github.com/NeonMercury/python-lua",
     author="Eremin Dmitry",
     author_email="mail@eremindmitry.ru",
-    licence="Apache",
+    license="Apache",
     packages=find_packages(),
     long_description="",
 )
